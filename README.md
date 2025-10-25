@@ -33,7 +33,7 @@ AccessWay is an AI-powered platform combining AR, AI, and crowdsourced data to p
 ---
 
 ## **Linktree**  
-Find all related links and resources here: [https://linktr.ee/LogiGreen](#)  
+Find all related links and resources here: (https://linktr.ee/AccesWay)  
 
 ---
 
